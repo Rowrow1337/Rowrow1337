@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Roro
+- 👀 I’m interested in somethings
+- 🌱 I’m currently learning PHP, LUA, PYTHON
